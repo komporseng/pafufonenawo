@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pafufonenawo.netlify.app/sitemap.xml
